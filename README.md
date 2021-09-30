@@ -4,6 +4,9 @@ Uma Cientista de Dados que adora colocar a mão na massa desde a coleta dos dado
 
 Experiência com: Python | SQL | Machine Learning 
 
+  * Contato: raquel.dotta02@gmail.com 
+  * [Linkedin](https://www.linkedin.com/in/raqueldotta/)
+
 # Projetos
 
  O projeto é apresentado em iPython Notebooks (publicados no Github)
