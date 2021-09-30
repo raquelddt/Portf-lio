@@ -14,3 +14,5 @@ Experiência com: Python | SQL | Machine Learning
 * Machine Learning
 
   *   [Projeto para prever se um cliete irá cancelar o serviço (churn)](https://github.com/raquelddt/Portflio/blob/main/Case-churn_Raquel%20Dotta.ipynb)
+
+_Ferramentas: scikit-learn, Pandas, Seaborn, Matplotlib._
