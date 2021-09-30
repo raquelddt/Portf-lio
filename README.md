@@ -6,7 +6,7 @@ Experiência com: Python | SQL | Machine Learning
 
 # Projetos
 
- Os projetos são apresentados em iPython Notebooks (publicados no Github)
+ O projeto é apresentado em iPython Notebooks (publicados no Github)
 
 * Machine Learning
 
